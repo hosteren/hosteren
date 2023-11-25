@@ -4,7 +4,7 @@ Hi there! I'm Trolle, a web developer and digital artist with a passion for crea
 
 - 🌐 As a web developer, I love crafting interactive and innovative websites. My code is a canvas for creativity!
 - 🎨 In the world of digital art, I explore the limitless possibilities of AI to create unique and visually stunning pieces.
-- 📚 I'm also an avid bookworm, and I share my book recommendations and artistic interpretations on my [Instagram](https://instagram.com/trollekarlsson) and [Ko-Fi](https://ko-fi.com/trollek).
+- 📚 I'm also an avid bookworm, and I share my book recommendations and artistic interpretations on my [Instagram](https://instagram.com/trollekarlsson) and [Ko-Fi](https://ko-fi.com/trollekarlsson).
 
 ## My Projects
 
