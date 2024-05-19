@@ -1,10 +1,10 @@
-Hi there! I'm Trolle, a web developer and digital artist with a passion for creativity, technology, and the intersection of art and AI. Here, you'll find a collection of projects that reflect my journey into the realms of code and imagination.
+Hi there! You can call me Trolle, and I am a web developer, digital artist, and a know-it-all nerd with a passion for creativity, technology, the brain, and how that will connect with AI. Here, you'll find a collection of projects that reflect my journey into the realms of code and imagination.
 
 ## About Me
 
-- 🌐 As a web developer, I love crafting interactive and innovative websites. My code is a canvas for creativity!
-- 🎨 In the world of digital art, I explore the limitless possibilities of AI to create unique and visually stunning pieces.
-- 📚 I'm also an avid bookworm, and I share my book recommendations and artistic interpretations on my [Instagram](https://instagram.com/trollekarlsson) and [Ko-Fi](https://ko-fi.com/trollekarlsson).
+- 🌐 As a web developer. If you ask me "What is the most fucked up thing you did for money?" I would easily answer "PHP". Python is my jam and jelly.
+- 🎨 In the world of digital art, I explore the limitless possibilities of sophisticated brute forcing to create unique and visually stunning pieces.
+- 📚 I'm also an avid bookworm, and I share my book recommendations and artistic interpretations on my [Ko-Fi](https://ko-fi.com/trollekarlsson).
 
 ## My Projects
 
@@ -19,8 +19,3 @@ Here's what you'll discover in my GitHub repository:
 If you enjoy my creative projects and would like to support my work, you can buy me a "coffee" on Ko-Fi. Your support helps me continue spreading positivity through art and technology.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4JSB83)
-
-<!---
-hosteren/hosteren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
