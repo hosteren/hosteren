@@ -1,15 +1,14 @@
-Hi there! You can call me Trolle, and I am a web developer, digital artist, and a know-it-all nerd with a passion for creativity, technology, the brain, and how that will connect with AI. Here, you'll find a collection of projects that reflect my journey into the realms of code and imagination.
+Hey, I'm Trolle, a web developer, digital artist, and AI enthusiast. When I'm not binge-watching every adult cartoon (almost all of them.. mostly), I'm busy exploring the latest tech trends and pushing the limits of what's possible.
 
 ## About Me
+I'm a Python fanatic, a digital art dabbler, and a lover of all things AI. You can find me on GitHub and Hugging Face, where I share my projects and experiments.
 
-- 🌐 As a web developer. If you ask me "What is the most fucked up thing you did for money?" I would easily answer "PHP". Python is my jam and jelly.
-- 🎨 In the world of digital art, I explore the limitless possibilities of sophisticated brute forcing to create unique and visually stunning pieces.
-  
 ## My Projects
+- **Web Dev**: [EMDR](https://github.com/hosteren/EMDR-for-browsers)
+- **Machine Learning**: [Caesar](https://gist.github.com/hosteren/852202caffa5fa88b317689ff6ea5be8)
+- **Hugging Face**: I fine-tune small language models, including my pride and joy - [image prompt helpers](https://huggingface.co/trollek/ImagePromptHelper-danube3-500M) (think "a flower in a garden" becomes "a vibrant, pink flower with yellow petals in a lush, green garden") and Danoia [datasets](https://huggingface.co/datasets/trollek/Danoia-v03)/[models](https://huggingface.co/trollek/Llama-3.1-8B-Danoia) (teaching language models to speak Danish).
+- **New Release**: [Voice2Input](https://github.com/hosteren/voice2input) - an app that uses Whisper to transcribe speech and paste it into the active window. Because, why type when you can talk?
 
-Here's what you'll discover in my GitHub repository:
+I've spent the past year training LLMs non-stop on my trusty 16GB 4060 Ti. While my models might not be on par with the big boys, I'm stoked with the results. It's all about having fun and pushing the boundaries of what's possible.
 
-- [EMDR](https://github.com/hosteren/EMDR-for-browsers): Treat trauma from your browser.
-- [LIX Calc](https://gist.github.com/hosteren/c0906cc0f8bc5187ec126d926e5d1870): Calculate the LIX (readability) value of a text.
-- [Caesar](https://gist.github.com/hosteren/852202caffa5fa88b317689ff6ea5be8): A Caeser encryption tool. The gibberish detector is private for now, so no brute-force is available.
-
+That's me in a nutshell - a tech-loving, AI-obsessed nerd with a passion for innovation and a soft spot for comedy.
